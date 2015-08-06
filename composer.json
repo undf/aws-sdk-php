@@ -16,7 +16,7 @@
         "issues": "https://github.com/aws/aws-sdk-php/issues"
     },
     "require": {
-        "php": ">=5.5",
+        "php": ">=5.4",
         "guzzlehttp/guzzle": ">=5.3|~6.0.1|~6.1",
         "guzzlehttp/psr7": "~1.0",
         "guzzlehttp/promises": "~1.0",
